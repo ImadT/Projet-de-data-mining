@@ -4,4 +4,4 @@ Le présent projet se propose de faire une segmentation des magasins d'alcool de
 
 Clustering using Kmeans & TwoStep algorithms
 
-Data: $$\href{https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy }{Iowa Liquor Sales}$$
+Data: \href{https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy }{Iowa Liquor Sales}
